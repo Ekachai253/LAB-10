@@ -86,7 +86,7 @@
   <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-11.png">
 
-![](https://github.com/Ekachai253/LAB-10/blob/e86e9f0d35f8d28d16173e0c9d08161decdd89a3/imgs/11.jpg)
+![](https://github.com/Ekachai253/LAB-10/blob/31db341e56c897959e97936d22161974dc21cbfb/imgs/11.jpg)
 #แบบฝึกหัด
 ให้วาดรูปวิว โดยใช้รูปร่างต่างๆ ที่ทำการทดลองใน Lab นี้
 
